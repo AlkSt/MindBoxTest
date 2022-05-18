@@ -1,0 +1,12 @@
+D:\Mindbox\MindboxTest\MindboxTestLib\bin\Debug\net5.0\MindboxTestLib.deps.json
+D:\Mindbox\MindboxTest\MindboxTestLib\bin\Debug\net5.0\MindboxTestLib.dll
+D:\Mindbox\MindboxTest\MindboxTestLib\bin\Debug\net5.0\ref\MindboxTestLib.dll
+D:\Mindbox\MindboxTest\MindboxTestLib\bin\Debug\net5.0\MindboxTestLib.pdb
+D:\Mindbox\MindboxTest\MindboxTestLib\obj\Debug\net5.0\MindboxTestLib.csproj.AssemblyReference.cache
+D:\Mindbox\MindboxTest\MindboxTestLib\obj\Debug\net5.0\MindboxTestLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mindbox\MindboxTest\MindboxTestLib\obj\Debug\net5.0\MindboxTestLib.AssemblyInfoInputs.cache
+D:\Mindbox\MindboxTest\MindboxTestLib\obj\Debug\net5.0\MindboxTestLib.AssemblyInfo.cs
+D:\Mindbox\MindboxTest\MindboxTestLib\obj\Debug\net5.0\MindboxTestLib.csproj.CoreCompileInputs.cache
+D:\Mindbox\MindboxTest\MindboxTestLib\obj\Debug\net5.0\MindboxTestLib.dll
+D:\Mindbox\MindboxTest\MindboxTestLib\obj\Debug\net5.0\ref\MindboxTestLib.dll
+D:\Mindbox\MindboxTest\MindboxTestLib\obj\Debug\net5.0\MindboxTestLib.pdb

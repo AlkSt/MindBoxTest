@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MindboxTestLib/1.0.0": {
+        "runtime": {
+          "MindboxTestLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MindboxTestLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
